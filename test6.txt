@@ -1,0 +1,8 @@
+1. La de 0.33 ??
+2. La de 0.5
+3. La de 0.75
+4. La de 1 y 0 ??
+5. El modelo no toma en cuenta detalles como el período refractario ( ??? ), ignora la sincronía y correlación y solo mira firing rates.
+6. El firing rate aumenta supralinealmente.
+7. Aumentar tpeak hace que los canales se abran por más tiempo y aumenta la sumación (decreases the decay of conductance).
+8. Less than Eleak.
